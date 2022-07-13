@@ -1,0 +1,81 @@
+
+.form-container{
+    width:600px;
+    margin: 20px auto;
+    border:1px solid #95a0a7;
+    box-sizing: border-box;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+}
+.content{
+    margin-bottom: 20px;
+}
+.form-title{
+    font-size: 35px;
+    color:#2A414F;
+    font-weight: 400;
+}
+.input-group{
+    margin-bottom: 15px;
+}
+.input-group label{
+    display: block;
+    margin-left:5px ;
+}
+.input-group input{
+    width:415px;
+    height: 45px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.form-submit{
+    width: 415px;
+    height: 55px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    background-color: cadetblue;
+    cursor: pointer;
+}
+.link-form{
+    text-align: center;
+}
+.form-link{
+    color: chocolate;
+    text-decoration: none; 
+}
+.others-part{
+    display: flex;
+}
+.left-border{
+    border-bottom: 1px solid;
+    width: 50%;
+}
+.middle-part{
+    font-size: 18px; 
+}
+.right-border{
+    border-bottom: 1px solid;
+    width: 50%;
+}
+.google-auth{
+    text-align: center;
+    margin-top: 10px;
+}
+.google-btn{
+    padding: 7px;
+    border: none;
+    background-color:rgb(228, 228, 113);
+    border-radius: 5px;
+    font-size: 18px;
+    
+}
+.google-btn img{
+    width: 25px;
+    margin-left: 5px;
+}
+.gooogle-para{
+    margin-bottom: 5px;
+}
